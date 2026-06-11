@@ -1,0 +1,12 @@
+doc_id: pulsed_power_technology_foundations
+type: book
+title: 脉冲功率技术基础
+authors: []
+language: zh
+category: PulsedPower
+source_pdf: 01_Books/PulsedPower/pulsed_power_technology_foundations.pdf
+output_dir: 90_ExtractedText/Books/pulsed_power_technology_foundations
+status: extracted
+total_pages: 515
+created_at: '2026-06-11T08:59:50+00:00'
+updated_at: '2026-06-11T08:59:52+00:00'
